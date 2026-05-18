@@ -1,0 +1,35 @@
+{
+    "random_forest": {
+        "model": "Random Forest Regressor",
+        "mae": 129.0054,
+        "mse": 42952.3485,
+        "rmse": 207.2495,
+        "r2": 0.7653,
+        "mape_percent": 76.2879,
+        "residual_mean": 10.6974,
+        "residual_std": 206.9732,
+        "best_params": {
+            "max_depth": 10,
+            "min_samples_split": 2,
+            "n_estimators": 200
+        },
+        "cv_rmse": 207.0699
+    },
+    "svr": {
+        "model": "Support Vector Regressor",
+        "mae": 128.0913,
+        "mse": 44102.8805,
+        "rmse": 210.0069,
+        "r2": 0.759,
+        "mape_percent": 82.3251,
+        "residual_mean": -10.2172,
+        "residual_std": 209.7582,
+        "best_params": {
+            "C": 100,
+            "epsilon": 1.0,
+            "gamma": "auto",
+            "kernel": "rbf"
+        },
+        "cv_rmse": 209.3145
+    }
+}
