@@ -8,6 +8,16 @@ The project compares Random Forest and Support Vector Machines (SVM) models for 
 
 ---
 
+# Citation and Academic Use
+
+This project was developed exclusively for academic and educational purposes.
+
+If this repository, codebase, methodology, visualizations, or any part of the implementation is used, modified, referenced, or adapted in other academic projects, reports, publications, repositories, or research works, proper citation and acknowledgment of the original authors is mandatory.
+
+Unauthorized copying or redistribution without attribution is not permitted.
+
+---
+
 # Project Workflow
 
 ```text
